@@ -21,6 +21,6 @@ Fomentar las habilidades cognitivas y las destrezas tecnológicas y lingüístic
 
 ### [2.- Operaciones con señales discretas](operaciones.ipynb)
 
-### 3.- Transformada de Fourier
+### [3.- Transformada de Fourier](fourier.ipynb)
 
 ### 4.- Filtros
