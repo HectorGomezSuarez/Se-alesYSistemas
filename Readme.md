@@ -19,7 +19,7 @@ Fomentar las habilidades cognitivas y las destrezas tecnológicas y lingüístic
 
 ### [1.- Introducción a las señales discretas en el tiempo y ejemplos](introduccion.ipynb)
 
-### 2.- Operaciones con señales discretas
+### [2.- Operaciones con señales discretas](operaciones.ipynb)
 
 ### 3.- Transformada de Fourier
 
