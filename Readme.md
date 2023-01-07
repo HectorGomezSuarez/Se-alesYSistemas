@@ -23,4 +23,4 @@ Fomentar las habilidades cognitivas y las destrezas tecnológicas y lingüístic
 
 ### [3.- Transformada de Fourier](fourier.ipynb)
 
-### 4.- Filtros
+### [4.- Filtros](filtros.ipynb)
