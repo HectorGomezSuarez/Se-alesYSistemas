@@ -17,7 +17,7 @@ Fomentar las habilidades cognitivas y las destrezas tecnológicas y lingüístic
 
 ## Temario
 
-### 1.- Introducción a las señales discretas en el tiempo y ejemplos[GitHub Pages](introduccion.ipynb)
+### 1.- [Introducción a las señales discretas en el tiempo y ejemplos](introduccion.ipynb)
 
 ### 2.- Operaciones con señales discretas
 
