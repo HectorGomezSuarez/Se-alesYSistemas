@@ -8,11 +8,11 @@ para construir un conjunto de herramientas que permitan el análisis de señales
 
 ## Objetivos del curso
 
-Revisar los conceptos fundamentales de las señales y sistemas discretos en el tiempo.
-Aplicar la Transformada Discreta de Fourier y la Transformada Z para el análisis de las señales y sistemas discretos en el tiempo.
-Implementar en software filtros digitales básicos.
-Identificar los campos de aplicación del procesamiento digital de señales, en particular en el campo de la Ingeniería Biomédica.
-Fomentar las habilidades cognitivas y las destrezas tecnológicas y lingüísticas en el área del procesamiento digital de señales.
+- Revisar los conceptos fundamentales de las señales y sistemas discretos en el tiempo.
+- Aplicar la Transformada Discreta de Fourier y la Transformada Z para el análisis de las señales y sistemas discretos en el tiempo.
+- Implementar en software filtros digitales básicos.
+- Identificar los campos de aplicación del procesamiento digital de señales, en particular en el campo de la Ingeniería Biomédica.
+- Fomentar las habilidades cognitivas y las destrezas tecnológicas y lingüísticas en el área del procesamiento digital de señales.
 
 
 ## Temario
